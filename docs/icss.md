@@ -1,7 +1,7 @@
-# wx-css 
+# i-css 
 
 ## 简介
-wxcss(无线css)是实用优先开箱即用(utility-first)的CSS UI开发框架。借鉴了tailwindcss和tachyons等国外框架的写法，*融合了知网赛事星手机知网的开发需求*。皆在解决后端工程师局部样式修复的问题。
+icss(i-css)是实用优先开箱即用(utility-first)的CSS UI开发框架。借鉴了tailwindcss和tachyons等国外框架的写法，*融合了知网赛事星手机知网的开发需求*。皆在解决后端工程师局部样式修复的问题。
 
 ## 原则
 
